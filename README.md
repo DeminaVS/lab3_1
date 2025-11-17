@@ -392,3 +392,5 @@ hashtags_list = extract_hashtags_simple(input_text)
 
 print(f"Найденные хэштеги: {hashtags_list}")
 ```
+# Вывод
+Освоили основные приемы работы со строками и списками в Python.
